@@ -6,22 +6,22 @@ JOBS = [{
     'id': 1,
     'title': 'Data Scientist',
     'location': 'Bamberg, Germany',
-    'salary': '€ 5.000,000'
+    'salary': '€ 5.000'
 }, {
     'id': 2,
     'title': 'Blockchain Engineer',
     'location': 'Boston, USA',
-    'salary': '$ 6.000,000'
+    'salary': '$ 6.000'
 }, {
     'id': 3,
     'title': 'Linux/DevOps Engineer',
     'location': 'Remote',
-    'salary': '$ 7.000,000'
+    'salary': '$ 7.000'
 }, {
     'id': 4,
     'title': 'Backend Developer',
     'location': 'Nuremberg, Germany',
-    'salary': '€ 8.000,000'
+    'salary': '€ 8.000 '
 }]
 
 
